@@ -1,4 +1,4 @@
-# Olá! Eu sou Hélio Rodrigues
+# Hélio Rodrigues
 
 Desenvolvedor Full-Stack | HTML, CSS, JavaScript, MERN | Imperatriz-MA
 
