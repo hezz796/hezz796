@@ -4,7 +4,7 @@ Desenvolvedor Full-Stack | HTML, CSS, JavaScript, MERN | Imperatriz-MA
 
 ## Sobre mim
 
-Sou um desenvolvedor full-stack apaixonado por construir soluções web inovadoras e eficientes. Atualmente, estou focado em aprimorar minhas habilidades e contribuir para projetos desafiadores. Minha experiência inclui [mencione aqui sua experiência profissional, se houver].
+Sou um desenvolvedor full-stack apaixonado por construir soluções web inovadoras e eficientes. Atualmente, estou focado em aprimorar minhas habilidades criar meus projetos e contribuir em outros.
 
 ## Habilidades
 
